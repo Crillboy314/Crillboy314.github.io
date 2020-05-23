@@ -235,6 +235,7 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
+		column-gap: 1000px;
 		width: 1200px;
 	}
 
